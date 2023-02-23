@@ -2,3 +2,9 @@ footer{
   background-color: #f5f3e9;
   color: #231f20;
 }
+label{
+  position: relative;
+  bottom: 68px;
+  background-color: black;
+  left: 100px;
+}
